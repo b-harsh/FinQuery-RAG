@@ -22,7 +22,7 @@ A high-performance RAG (Retrieval-Augmented Generation) system built to analyze 
 
 ### Quick Start
 
-1. Clone the repo: `git clone <your-repo-link>`
+1. Clone the repo: `git clone [<your-repo-link>](https://github.com/b-harsh/FinQuery-RAG)`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Add your `GROQ_API_KEY` to a `.env` file.
 4. Place your PDF as `report.pdf` in the root can delete if any existing already.
