@@ -1,0 +1,16 @@
+# Credentials
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Large Data & Local Vector DB
+data/
+faiss_index/
+# *.pdf
+
+# Environment
+.ipynb_checkpoints/
