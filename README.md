@@ -2,6 +2,9 @@
 
 A high-performance RAG (Retrieval-Augmented Generation) system built to analyze complex financial documents (10-K reports, research papers) with high accuracy and zero hallucination.
 
+<img width="1397" height="760" alt="image" src="https://github.com/user-attachments/assets/0435c3a7-39ed-4a5f-bb23-f09b27da2e09" />
+
+
 ### Key Features
 
 - **Hybrid RAG Pipeline:** Uses local HuggingFace embeddings (`all-MiniLM-l6-v2`) to minimize API costs and latency.
